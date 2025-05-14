@@ -42,6 +42,7 @@ public class CheckBoxAssignment {
 		
 		//=======================================================================================
 		// verifying footer heading
+		Thread.sleep(2000);
 		WebElement footer = driver.findElement(By.xpath("//div[@style='text-align: center;']"));
 		String verifyfooter = footer.getText();
 		if (verifyfooter.equals("Powered by Elemental Selenium")) {
