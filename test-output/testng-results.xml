@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-05-13T22:54:44 EDT" name="Default suite" finished-at="2025-05-13T22:54:55 EDT" duration-ms="11394">
+  <suite started-at="2025-05-18T10:57:20 EDT" name="Default suite" finished-at="2025-05-18T10:57:30 EDT" duration-ms="9387">
     <groups>
     </groups>
-    <test started-at="2025-05-13T22:54:44 EDT" name="Default test" finished-at="2025-05-13T22:54:55 EDT" duration-ms="11394">
-      <class name="testngexamples.DemoQAassignment">
-        <test-method signature="Dropdown1()[pri:0, instance:testngexamples.DemoQAassignment@436813f3]" started-at="2025-05-13T22:54:44 EDT" name="Dropdown1" finished-at="2025-05-13T22:54:48 EDT" duration-ms="4087" status="PASS">
+    <test started-at="2025-05-18T10:57:20 EDT" name="Default test" finished-at="2025-05-18T10:57:30 EDT" duration-ms="9387">
+      <class name="alertAssignments.HerokuppAlertAssignmentMay14">
+        <test-method signature="AlertJsAlert()[pri:0, instance:alertAssignments.HerokuppAlertAssignmentMay14@7f0eb4b4]" started-at="2025-05-18T10:57:21 EDT" name="AlertJsAlert" finished-at="2025-05-18T10:57:24 EDT" duration-ms="3745" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Dropdown1 -->
-        <test-method signature="dropdown2()[pri:0, instance:testngexamples.DemoQAassignment@436813f3]" started-at="2025-05-13T22:54:48 EDT" name="dropdown2" finished-at="2025-05-13T22:54:51 EDT" duration-ms="3234" status="PASS">
+        </test-method> <!-- AlertJsAlert -->
+        <test-method signature="JSConfirm()[pri:0, instance:alertAssignments.HerokuppAlertAssignmentMay14@7f0eb4b4]" started-at="2025-05-18T10:57:24 EDT" name="JSConfirm" finished-at="2025-05-18T10:57:27 EDT" duration-ms="3154" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- dropdown2 -->
-        <test-method signature="dropdown3()[pri:0, instance:testngexamples.DemoQAassignment@436813f3]" started-at="2025-05-13T22:54:51 EDT" name="dropdown3" finished-at="2025-05-13T22:54:55 EDT" duration-ms="4043" status="PASS">
+        </test-method> <!-- JSConfirm -->
+        <test-method signature="JSPrompt()[pri:0, instance:alertAssignments.HerokuppAlertAssignmentMay14@7f0eb4b4]" started-at="2025-05-18T10:57:27 EDT" name="JSPrompt" finished-at="2025-05-18T10:57:30 EDT" duration-ms="2424" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- dropdown3 -->
-      </class> <!-- testngexamples.DemoQAassignment -->
+        </test-method> <!-- JSPrompt -->
+      </class> <!-- alertAssignments.HerokuppAlertAssignmentMay14 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

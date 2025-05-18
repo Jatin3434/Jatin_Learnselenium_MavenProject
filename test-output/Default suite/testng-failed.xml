@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testngexamples.DemoQAassignment">
+      <class name="alertAssignments.HerokuppAlertAssignmentMay14">
         <methods>
-          <include name="dropdown2"/>
+          <include name="JSConfirm"/>
         </methods>
-      </class> <!-- testngexamples.DemoQAassignment -->
+      </class> <!-- alertAssignments.HerokuppAlertAssignmentMay14 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
